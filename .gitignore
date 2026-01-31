@@ -1,0 +1,16 @@
+# Secrets (ne jamais pousser sur Git)
+.env
+.env.local
+.env.*.local
+
+# Dépendances
+node_modules/
+
+# Logs et cache
+npm-debug.log*
+.npm
+.cache
+
+# OS
+.DS_Store
+Thumbs.db
